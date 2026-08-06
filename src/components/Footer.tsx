@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import { Phone, Mail, MapPin, ChevronRight, Instagram, Facebook, Youtube } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useToast } from "@/components/ui/use-toast";
+import krialLogo from "@/assets/krial-logo.png.asset.json";
 
 const Footer = () => {
   const { toast } = useToast();
@@ -31,7 +32,7 @@ const Footer = () => {
 <div className="space-y-4">
   <Link to="/" className="relative z-50 flex items-center">
     <img
-      src="1123.png"
+      src={krialLogo.url}
       alt="KriAl"
       className="h-10 w-auto object-contain"
     />
