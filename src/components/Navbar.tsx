@@ -87,7 +87,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between">
           <Link to="/" className="relative z-50 flex items-center">
             <img
-              src="1123.png"
+              src={krialLogo.url}
               alt="KriAl"
               className="h-10 w-auto object-contain"
             />
