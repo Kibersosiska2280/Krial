@@ -107,7 +107,7 @@ const projects: Project[] = [
   {
     id: "working-zona",
     title: "Рабочая зона у окна",
-    description: "Индивидуальное изготовление мебели для рабочей зоны у окна от фабрики «KriAl_mebel».",
+    description: "Индивидуальное изготовление мебели для рабочей зоны у окна от фабрики «KriAl».",
     image: foto14,
     category: "Рабочие зоны",
     year: "2023",

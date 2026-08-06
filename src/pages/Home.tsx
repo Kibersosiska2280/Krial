@@ -294,7 +294,7 @@ const Home = () => {
               Почему мы
             </span>
             <h2 className="text-3xl md:text-4xl font-display font-semibold mb-4 text-white">
-              Преимущества KriAl_mebel
+              Преимущества KriAl
             </h2>
             <p className="text-white/70">
               11 лет производим мебель для B2B клиентов по всей России
@@ -577,7 +577,7 @@ const Home = () => {
                 author: "Анна К.",
                 position: "Владелец дизайн-студии",
                 content:
-                  "Работаю с KriAl_mebel уже более 2 лет. Всегда качественное исполнение, внимание к деталям и точное соблюдение сроков. Рекомендую как надежного производителя мебели.",
+                  "Работаю с KriAl уже более 2 лет. Всегда качественное исполнение, внимание к деталям и точное соблюдение сроков. Рекомендую как надежного производителя мебели.",
                 rating: 5,
               },
               {
@@ -671,9 +671,9 @@ const Home = () => {
                 <Button 
                   size="lg" 
                   variant="outline"
-                  onClick={() => window.location.href = "tel:+79374019738"}
+                  onClick={() => window.location.href = "tel:+79968099181"}
                 >
-                  +7 (937) 401-97-38
+                  +79968099181
                 </Button>
               </div>
             </motion.div>
@@ -687,9 +687,9 @@ const Home = () => {
             >
               <div className="bg-secondary/50 rounded-lg p-6 border border-border">
                 <h3 className="text-lg font-medium text-white mb-4">Наш адрес</h3>
-                <p className="text-white/70 mb-2">г. Кузнецк, ул. Гагарина 53/1</p>
+                <p className="text-white/70 mb-2">Пенза</p>
                 <p className="text-white/70 mb-2">domlight@mail.ru</p>
-                <p className="text-accent font-medium">+7 (937) 401-97-38</p>
+                <p className="text-accent font-medium">+79968099181</p>
               </div>
             </motion.div>
           </div>

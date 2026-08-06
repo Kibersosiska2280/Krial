@@ -117,7 +117,7 @@ const Contacts = () => {
           
           <div className="rounded-xl overflow-hidden h-[300px]">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d279.93512648647436!2d46.571326377624956!3d53.119707122351144!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sru!2sru!4v1772834801784!5m2!1sru!2sru"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d149473.0!2d45.0182!3d53.1955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z0J_QtdC90YHQutC40LU!5e0!3m2!1sru!2sru!4v1"
               width="100%"
               height="100%"
               style={{ border: 0 }}
@@ -132,7 +132,7 @@ const Contacts = () => {
               <MapPin className="w-5 h-5 mt-1 text-primary" />
               <div>
                 <h4 className="font-medium">Адрес:</h4>
-                <p className="text-muted-foreground">г. Кузнецк, ул. Гагарина 53/1</p>
+                <p className="text-muted-foreground">Пенза</p>
               </div>
             </div>
             
@@ -140,7 +140,7 @@ const Contacts = () => {
               <Phone className="w-5 h-5 mt-1 text-primary" />
               <div>
                 <h4 className="font-medium">Телефон:</h4>
-                <p className="text-muted-foreground">+7 (937) 401-97-38</p>
+                <p className="text-muted-foreground">+79968099181</p>
               </div>
             </div>
             

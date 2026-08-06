@@ -265,7 +265,7 @@ const FurnitureCutting = () => {
             >
               <h2 className="text-3xl font-bold mb-6">Раскрой мебельных деталей на ЧПУ</h2>
               <p className="text-muted-foreground mb-4">
-                Изготовление мебельных деталей на фабрике KriAl_mebel происходит на ЧПУ 
+                Изготовление мебельных деталей на фабрике KriAl происходит на ЧПУ 
                 станках. Детали ДСП с обработкой ручным или не автоматизированным инструментом 
                 занимают 3-5% от объёма обработки материала.
               </p>
@@ -382,11 +382,11 @@ const FurnitureCutting = () => {
             Отправьте схемы мебели с размерами и получите расчёт через 30 минут
           </p>
           <a 
-            href="tel:+79374019738" 
+            href="tel:+79968099181" 
             className="inline-flex items-center gap-3 text-2xl font-bold hover:opacity-80 transition-opacity"
           >
             <Phone size={28} />
-            +7 (937) 401-97-38
+            +79968099181
           </a>
         </div>
       </section>

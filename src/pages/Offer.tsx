@@ -14,13 +14,13 @@ const Offer = () => {
           <div className="prose prose-invert max-w-none space-y-6 text-white/80">
             <p className="text-lg">
               Настоящий документ является официальным предложением (публичной офертой) 
-              KriAl_mebel о заключении договора на оказание услуг по производству и поставке мебели.
+              KriAl о заключении договора на оказание услуг по производству и поставке мебели.
             </p>
 
             <h2 className="text-2xl font-semibold text-white mt-8">1. Термины и определения</h2>
             <ul className="list-disc pl-6 space-y-2">
               <li><strong>Оферта</strong> – настоящее предложение о заключении договора</li>
-              <li><strong>Исполнитель</strong> – KriAl_mebel</li>
+              <li><strong>Исполнитель</strong> – KriAl</li>
               <li><strong>Заказчик</strong> – юридическое лицо или ИП, принимающее условия оферты</li>
               <li><strong>Акцепт</strong> – полное и безоговорочное принятие условий оферты</li>
             </ul>
@@ -99,9 +99,9 @@ const Offer = () => {
 
             <h2 className="text-2xl font-semibold text-white mt-8">12. Реквизиты Исполнителя</h2>
             <p>
-              KriAl_mebel<br />
-              Адрес: г. Кузнецк, ул. Гагарина 53/1<br />
-              Телефон: +7 (937) 401-97-38<br />
+              KriAl<br />
+              Адрес: Пенза<br />
+              Телефон: +79968099181<br />
               Email: domlight@mail.ru
             </p>
 

@@ -87,7 +87,7 @@ const Navbar = () => {
           <Link to="/" className="relative z-50 flex items-center">
             <img
               src="1123.png"
-              alt="KriAl_mebel"
+              alt="KriAl"
               className="h-10 w-auto object-contain"
             />
           </Link>
@@ -134,9 +134,9 @@ const Navbar = () => {
           </nav>
 
           <div className="hidden md:flex items-center space-x-4">
-            <a href="tel:+79374019738" className="text-sm flex items-center text-white/80 hover:text-white transition-colors">
+            <a href="tel:+79968099181" className="text-sm flex items-center text-white/80 hover:text-white transition-colors">
               <Phone size={16} className="mr-2 text-accent" />
-              <span>+7 (937) 401-97-38</span>
+              <span>+79968099181</span>
             </a>
           </div>
 
@@ -177,7 +177,7 @@ const Navbar = () => {
               <Link to="/" className="flex items-center">
                 <img
                   src="1123.png"
-                  alt="KriAl_mebel"
+                  alt="KriAl"
                   className="h-10 w-auto object-contain"
                 />
               </Link>
@@ -251,9 +251,9 @@ const Navbar = () => {
               </div>
               
               <div className="py-8 space-y-4">
-                <a href="tel:+79374019738" className="text-base flex items-center text-white/80 hover:text-white transition-colors">
+                <a href="tel:+79968099181" className="text-base flex items-center text-white/80 hover:text-white transition-colors">
                   <Phone size={18} className="mr-2 text-accent" />
-                  <span>+7 (937) 401-97-38</span>
+                  <span>+79968099181</span>
                 </a>
                 <a href="mailto:domlight@mail.ru" className="text-base flex items-center text-white/80 hover:text-white transition-colors">
                   <Mail size={18} className="mr-2 text-accent" />

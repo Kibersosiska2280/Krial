@@ -116,7 +116,7 @@ const LdspEggerCutting = () => {
       {/* 6 Reasons */}
       <section className="py-16 container mx-auto px-4">
         <SectionTitle 
-          title="6 причин выбрать «KriAl_mebel»" 
+          title="6 причин выбрать «KriAl»" 
           subtitle="Почему клиенты доверяют нам распил ЛДСП EGGER"
         />
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mt-10">
@@ -272,11 +272,11 @@ const LdspEggerCutting = () => {
           <h2 className="text-3xl font-bold mb-4">Остались вопросы?</h2>
           <p className="text-xl mb-8 opacity-90">Позвоните нам — мы поможем с расчётом</p>
           <a 
-            href="tel:+79374019738" 
+            href="tel:+79968099181" 
             className="inline-flex items-center gap-3 text-2xl font-bold hover:opacity-80 transition-opacity"
           >
             <Phone size={28} />
-            +7 (937) 401-97-38
+            +79968099181
           </a>
         </div>
       </section>

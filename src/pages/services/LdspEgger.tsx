@@ -333,11 +333,11 @@ const LdspEgger = () => {
           <h2 className="text-3xl font-bold mb-4">Остались вопросы?</h2>
           <p className="text-xl mb-8 opacity-90">Позвоните нам — мы поможем с выбором</p>
           <a 
-            href="tel:+79374019738" 
+            href="tel:+79968099181" 
             className="inline-flex items-center gap-3 text-2xl font-bold hover:opacity-80 transition-opacity"
           >
             <Phone size={28} />
-            +7 (937) 401-97-38
+            +79968099181
           </a>
         </div>
       </section>

@@ -17,7 +17,7 @@ const AboutUs = () => {
       <section className="space-y-8">
         <SectionTitle 
           title="О компании" 
-          subtitle="KriAl_mebel — ваш надёжный партнёр в производстве мебели для бизнеса"
+          subtitle="KriAl — ваш надёжный партнёр в производстве мебели для бизнеса"
         />
         
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
@@ -29,7 +29,7 @@ const AboutUs = () => {
           >
             <h3 className="text-2xl font-medium mb-4">Кто мы</h3>
             <p className="text-muted-foreground mb-4">
-              Компания «KriAl_mebel» была основана в 2015 году. За 11 лет работы мы выросли 
+              Компания «KriAl» была основана в 2015 году. За 11 лет работы мы выросли 
               из небольшого производства до фабрики с промышленным ЧПУ оборудованием 
               и цехом площадью 4000 м².
             </p>
