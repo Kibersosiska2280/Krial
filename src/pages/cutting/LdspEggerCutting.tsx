@@ -116,7 +116,7 @@ const LdspEggerCutting = () => {
       {/* 6 Reasons */}
       <section className="py-16 container mx-auto px-4">
         <SectionTitle 
-          title="6 причин выбрать «ДомЛайт»" 
+          title="6 причин выбрать «KriAl_mebel»" 
           subtitle="Почему клиенты доверяют нам распил ЛДСП EGGER"
         />
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mt-10">

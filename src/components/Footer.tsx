@@ -32,7 +32,7 @@ const Footer = () => {
   <Link to="/" className="relative z-50 flex items-center">
     <img
       src="1123.png"
-      alt="ДомЛайт"
+      alt="KriAl_mebel"
       className="h-10 w-auto object-contain"
     />
   </Link>
@@ -170,7 +170,7 @@ const Footer = () => {
         {/* Нижний footer */}
         <div className="mt-12 pt-6 border-t border-border flex flex-col md:flex-row justify-between items-center">
           <p className="text-white/50 text-xs text-center md:text-left">
-            © {new Date().getFullYear()} ДомЛайт. Все права защищены.
+            © {new Date().getFullYear()} KriAl_mebel. Все права защищены.
           </p>
           <div className="flex flex-wrap gap-4 mt-4 md:mt-0">
             <Link to="/privacy" className="text-white/50 hover:text-accent text-xs transition-colors">
