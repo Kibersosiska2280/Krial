@@ -83,7 +83,7 @@ const Services = () => {
       <section className="space-y-8">
         <SectionTitle 
           title="Почему выбирают нас" 
-          subtitle="Преимущества работы с ДомЛайт"
+          subtitle="Преимущества работы с KriAl_mebel"
         />
         
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">

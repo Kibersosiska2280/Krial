@@ -49,7 +49,7 @@ const CustomFurniture = () => {
       {/* 6 причин выбрать нас */}
       <section className="py-16 container mx-auto px-4">
         <SectionTitle 
-          title="6 причин выбрать «ДомЛайт»" 
+          title="6 причин выбрать «KriAl_mebel»" 
           subtitle="Почему с нами работают более 500 компаний"
         />
 
@@ -92,7 +92,7 @@ const CustomFurniture = () => {
             >
               <h2 className="text-3xl font-bold mb-6">Мы знаем, как делать мебель правильно</h2>
               <p className="text-muted-foreground mb-4">
-                Компания «ДомЛайт» — это современное мебельное производство полного цикла. 
+                Компания «KriAl_mebel» — это современное мебельное производство полного цикла. 
                 Мы работаем с крупнейшими застройщиками, гостиничными сетями, торговыми сетями и частными заказчиками.
               </p>
               <p className="text-muted-foreground mb-6">

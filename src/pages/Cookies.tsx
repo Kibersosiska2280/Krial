@@ -13,7 +13,7 @@ const Cookies = () => {
           
           <div className="prose prose-invert max-w-none space-y-6 text-white/80">
             <p className="text-lg">
-              Настоящая Политика описывает, как сайт ДомЛайт использует файлы cookie 
+              Настоящая Политика описывает, как сайт KriAl_mebel использует файлы cookie 
               и аналогичные технологии для обеспечения работы сайта и улучшения 
               пользовательского опыта.
             </p>

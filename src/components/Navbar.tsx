@@ -87,7 +87,7 @@ const Navbar = () => {
           <Link to="/" className="relative z-50 flex items-center">
             <img
               src="1123.png"
-              alt="ДомЛайт"
+              alt="KriAl_mebel"
               className="h-10 w-auto object-contain"
             />
           </Link>
@@ -177,7 +177,7 @@ const Navbar = () => {
               <Link to="/" className="flex items-center">
                 <img
                   src="1123.png"
-                  alt="ДомЛайт"
+                  alt="KriAl_mebel"
                   className="h-10 w-auto object-contain"
                 />
               </Link>
