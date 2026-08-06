@@ -349,11 +349,11 @@ const Drilling = () => {
             Отправьте схемы мебели с размерами и получите расчёт через 30 минут
           </p>
           <a 
-            href="tel:+79374019738" 
+            href="tel:+79968099181" 
             className="inline-flex items-center gap-3 text-2xl font-bold hover:opacity-80 transition-opacity"
           >
             <Phone size={28} />
-            +7 (937) 401-97-38
+            +79968099181
           </a>
         </div>
       </section>

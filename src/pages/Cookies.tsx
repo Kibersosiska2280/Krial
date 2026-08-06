@@ -13,7 +13,7 @@ const Cookies = () => {
           
           <div className="prose prose-invert max-w-none space-y-6 text-white/80">
             <p className="text-lg">
-              Настоящая Политика описывает, как сайт KriAl_mebel использует файлы cookie 
+              Настоящая Политика описывает, как сайт KriAl использует файлы cookie 
               и аналогичные технологии для обеспечения работы сайта и улучшения 
               пользовательского опыта.
             </p>
@@ -133,8 +133,8 @@ const Cookies = () => {
             <p>
               По вопросам использования cookie обращайтесь:<br />
               Email: domlight@mail.ru<br />
-              Телефон: +7 (937) 401-97-38<br />
-              Адрес: г. Кузнецк, ул. Гагарина 53/1
+              Телефон: +79968099181<br />
+              Адрес: Пенза
             </p>
 
             <p className="text-sm text-white/60 mt-8">
