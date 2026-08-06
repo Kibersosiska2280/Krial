@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import { Phone, Mail, MapPin, ChevronRight, Instagram, Facebook, Youtube } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useToast } from "@/components/ui/use-toast";
+import krialLogo from "@/assets/krial-logo.png.asset.json";
 
 const Footer = () => {
   const { toast } = useToast();
