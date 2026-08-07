@@ -17,8 +17,26 @@ const CallbackButton = () => {
     setLoading(true);
     const form = e.currentTarget;
     const data = new FormData(form);
-    console.log("Callback request:", Object.fromEntries(data));
-    await new Promise((r) => setTimeout(r, 600));
+    const values = Object.fromEntries(data) as Record<string, string>;
+
+    try {
+      const existing = JSON.parse(localStorage.getItem("mockContactRequests") || "[]");
+      existing.push({
+        id: "cb-" + Date.now(),
+        name: values.name || "",
+        phone: values.phone || "",
+        email: "",
+        message: [values.company ? `Компания: ${values.company}` : "", values.message || ""]
+          .filter(Boolean)
+          .join("\n") || "Заявка на расчёт",
+        created_at: new Date().toISOString(),
+      });
+      localStorage.setItem("mockContactRequests", JSON.stringify(existing));
+    } catch (err) {
+      console.error("Не удалось сохранить заявку", err);
+    }
+
+    await new Promise((r) => setTimeout(r, 400));
     setLoading(false);
     setOpen(false);
     form.reset();
